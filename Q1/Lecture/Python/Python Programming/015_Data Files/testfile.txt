@@ -1,0 +1,1 @@
+File created using Python with 'w' mode.This text is written in Python with append mode

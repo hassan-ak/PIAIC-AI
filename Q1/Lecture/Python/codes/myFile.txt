@@ -1,0 +1,2 @@
+This is my file
+This text is written in append mode
